@@ -1,0 +1,1 @@
+web: gunicorn twitter_friends:app --log-file=-
